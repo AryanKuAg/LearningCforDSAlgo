@@ -1,0 +1,16 @@
+
+ 1. Only _ is allowed in variables name from all other special characters.
+ 2. Constant Characters must be enclosed in single inverted commas ('')
+ 3. Code runner vs code extension to run your code directly from vs code with a single button. 
+ 4. printf("Hello world %d %d %d", a, b, c); // It's like interpolation in C. 
+ 5. 0 return means successful run of a program // just for fun
+ 6. jaisa size ka variables banaoge say, integer, utni user ke system me memory allocate hogi. //imp
+ ------------------
+ %d for integers
+ %f for real values
+ %c for characters
+ ------------------
+// for comment
+\ for escape sequences 
+
+printf("Sum of d and d is %d", d + d); // can also do calculations
