@@ -5,12 +5,18 @@
  4. printf("Hello world %d %d %d", a, b, c); // It's like interpolation in C. 
  5. 0 return means successful run of a program // just for fun
  6. jaisa size ka variables banaoge say, integer, utni user ke system me memory allocate hogi. //imp
+ 7. You can make snippets in vs code for quick snippet // I like this
+ 8. Alt + click // to get multiple cursors
  ------------------
  %d for integers
  %f for real values
  %c for characters
+ &<variable> -> To get the address of variable
  ------------------
 // for comment
 \ for escape sequences 
 
 printf("Sum of d and d is %d", d + d); // can also do calculations
+scanf("%d", &b); // to get and store the user input in the reserved address of variable b.
+
+
